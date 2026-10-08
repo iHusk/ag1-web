@@ -1,0 +1,7 @@
+# ODSA AG-1 course pages
+
+> Teaching material for the Omaha Data Science Academy course AG-1. Every company, person, and price on this site is fictional.
+
+## Pages
+
+- [Fairmount Relocation Services, package rates](https://ihusk.github.io/ag1-web/fairmount/packages.html): published list rates for a standard domestic move, updated October 2026
